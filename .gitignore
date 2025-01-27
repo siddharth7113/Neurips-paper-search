@@ -1,0 +1,59 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# ChromaDB files
+chromadb/
+*.bin
+*.sqlite3
+*.pickle
+
+# Egg-info
+*.egg-info/
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# # t-SNE visualization output
+# *.html
+
+# # CSV and JSON files (optional, if they are generated or shouldn't be tracked)
+# *.csv
+# *.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python debug files
+*.pdb
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+
+# Others
+*.bak
+*.swp
+*.tmp
+
+#env-dir
+search_db/
+
+#chroma_db
+chromadb/
