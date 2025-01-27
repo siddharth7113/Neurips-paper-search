@@ -55,5 +55,5 @@ dist/
 #env-dir
 search_db/
 
-#chroma_db
-chromadb/
+# #chroma_db
+# chromadb/
