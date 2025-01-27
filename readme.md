@@ -29,11 +29,6 @@ This project is a semantic search tool for NeurIPS papers from the past 10 years
 ├── tsne_3d_plot.html       # Pre-generated 3D t-SNE visualization
 └── setup.py                # Setup script for the project
 ```
-
-````
-
----
-
 ## **Getting Started**
 
 ### **Prerequisites**
@@ -149,4 +144,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Contact**
 
 For any inquiries, feel free to [reach out](https://github.com/siddharth899).
-````
